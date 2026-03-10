@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=OFFA1911&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Recon%20Specialist&descAlignY=60&descColor=36bcf5" />
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=OFFA1911;%5B+BUG+BOUNTY+HUNTER+%5D;%5B+RECON+SPECIALIST+%5D" alt="Name SVG" />
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=36BCF5&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
 
 <br/>
 
@@ -14,13 +14,11 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> `cat /etc/offa/status.conf`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `cat /etc/offa/status.conf`
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNmwxdDJ3MWcxeG9ocTIyczV2aG5tNW54eWwxM2psbzkxYTk4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="220" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNmwxdDJ3MWcxeG9ocTIyczV2aG5tNW54eWwxM2psbzkxYTk4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="200" />
 
 ```bash
 $ ./offa --info
@@ -37,15 +35,14 @@ $ ./offa --info
 
 <br clear="right"/>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `ls /skills/`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> `ls /skills/`
 
 <div align="center">
 
-### 💻 Languages
+**💻 Languages**
+
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,13 +51,12 @@ $ ./offa --info
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🖥️ Systems & Platforms
+**🖥️ Systems & Tools**
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🛠️ Daily Arsenal
 ![Nuclei](https://img.shields.io/badge/Nuclei-00d26a?style=for-the-badge&logo=buffer&logoColor=white)
 ![Amass](https://img.shields.io/badge/Amass-blueviolet?style=for-the-badge&logo=amazon&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=shodan&logoColor=white)
@@ -70,29 +66,20 @@ $ ./offa --info
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 `./stats --github --user OFFA1911`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OFFA1911&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=36bcf5&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=OFFA1911&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=36bcf5&text_color=ffffff&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFA1911&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFA1911&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFA1911&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=36bcf5&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OFFA1911&bg_color=0d1117&color=00ff41&line=36bcf5&point=ffffff&area=true&hide_border=true" />
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFA1911&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=36bcf5&fire=ff6b6b&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFFA1911&bg_color=0d1117&color=00ff41&line=36bcf5&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -101,8 +88,6 @@ $ ./offa --info
 <div align="center">
   <img src="https://raw.githubusercontent.com/OFFA1911/OFFA1911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-
-> **Note:** لتفعيل الـ snake animation، اتبع التعليمات في الـ README بتاعي 👇
 
 <details>
 <summary><b>⚙️ إعداد Snake Animation</b></summary>
@@ -131,21 +116,9 @@ jobs:
 ```
 </details>
 
----
-
 <div align="center">
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=OFFA1911&label=Profile+Views&color=00ff41&style=for-the-badge" />
 
-```
-┌─────────────────────────────────────────┐
-│   "Security is not a product,           │
-│    but a process." — Bruce Schneier     │
-│                                         │
-│         Happy Hunting! 🐛💰             │
-└─────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=80&section=footer"/>
 </div>
