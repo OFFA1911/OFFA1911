@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJ5d3A5aTM0c3F6NXM5NTMyZDl1dDA2YjhhOHFremg0c3IwbGg5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="200" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Hi,+I'm+OFFA+👋;Bug+Bounty+Hunter;Wide+Scope+&+Recon+Lover" alt="Typing SVG" />
