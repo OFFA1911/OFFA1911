@@ -13,7 +13,7 @@
 
 ### 🕵️‍♂️ Present Status
 
-<img align="right" src="https://raw.githubusercontent.com/lostsec/lostsec/main/assets/hacker.png" width="180" alt="Hacker Image">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Incognito_logo.svg/512px-Incognito_logo.svg.png" width="180" alt="Hacker">
 
 👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.
 <br><br>
