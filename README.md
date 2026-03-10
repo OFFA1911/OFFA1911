@@ -14,12 +14,14 @@
 ### 🕵️‍♂️ Present Status
 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNmwxdDJ3MWcxeG9ocTIyczV2aG5tNW54eWwxM2psbzkxYTk4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" align="right" width="200" alt="Hacker Image">
+  <img src="https://raw.githubusercontent.com/th3prof3ssor/th3prof3ssor/main/assets/img/hacker.png" align="right" width="200" alt="Hacker Image">
   👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.<br><br>
   👉 Hunting for **XSS, LFI**, and deep misconfigurations.<br><br>
   👉 Always exploring new targets and automating my workflow.<br><br>
   👉 Goal: Expanding my attack surface and finding critical bugs.
 </p>
+
+`Updating:` Journey to Cybersecurity Specialist.
 
 `Updating:` Journey to Cybersecurity Specialist.
 <br>
