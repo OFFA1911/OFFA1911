@@ -14,6 +14,7 @@
 ### 🕵️‍♂️ Present Status
 
 <p align="left">
+  <iframe src="https://giphy.com/embed/Cfiid6I8YDKqrCxAaY" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackersec-hs-hack-hacking-hacker-Cfiid6I8YDKqrCxAaY">via GIPHY</a></p>
   <img src="https://raw.githubusercontent.com/th3prof3ssor/th3prof3ssor/main/assets/img/hacker.png" align="right" width="200" alt="Hacker Image">
   👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.<br><br>
   👉 Hunting for **XSS, LFI**, and deep misconfigurations.<br><br>
