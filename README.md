@@ -1,80 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a00,60:0a1a0a,100:0d0d0d&height=280&section=header&text=OFFA&fontSize=130&fontColor=00ff41&animation=blinking&fontAlignY=50&desc=◈%20Bug%20Bounty%20Hunter%20◈&descAlignY=72&descColor=36BCF5&descSize=22&stroke=00ff41&strokeWidth=3" />
+<!-- Cyber / Circuit Board Background with Welcome -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a4a,60:0d1117,100:0a1628&height=280&section=header&text=OFFA&fontSize=100&fontColor=36BCF5&animation=blinking&fontAlignY=45&desc=◈%20Welcome%20to%20my%20Profile%20◈&descAlignY=68&descColor=00ff41&descSize=18&stroke=36BCF5&strokeWidth=2" />
+
+<!-- Welcome GIF -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3000&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=Welcome+to+my+profile+%F0%9F%91%BE" alt="Welcome" />
+&nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=680&height=45&lines=subfinder+-d+target.com+%7C+httpx+-silent+%7C+nuclei;gf+xss+urls.txt+%7C+dalfox+pipe+--silence;nuclei+-t+cves%2F+exposed-panels%2F+-u+target.com;katana+-u+https%3A%2F%2Ftarget.com+-jc+-d+5+%7C+gf+lfi;ffuf+-w+wordlist.txt+-u+URL%2FFUZZ+-mc+200%2C403;amass+enum+-passive+-d+target.com;grep+-r+%22api_key%7Ctoken%7Csecret%22+%2Fjs%2F" alt="Typing SVG" />
+<!-- Glitch Hi I'm OFFA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+OFFA+%F0%9F%91%8B;%E2%96%88%E2%96%88%E2%96%84%E2%96%84%E2%96%88%E2%96%88%E2%80%A6+%5BGLITCH%5D;Hi%2C+I'm+OFFA+%F0%9F%91%8B" alt="Glitch OFFA" />
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=36BCF5&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
+
+<br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
-[![Intigriti](https://img.shields.io/badge/Intigriti-1a1a2e?style=for-the-badge&logo=hackaday&logoColor=00ff41)](https://intigriti.com/)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ whoami`
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `cat /etc/offa/status.conf`
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNmwxdDJ3MWcxeG9ocTIyczV2aG5tNW54eWwxM2psbzkxYTk4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="200" />
 
 ```bash
-$ cat /etc/offa/profile.conf
+$ ./offa --info
 
-╔══════════════════════════════════════════╗
-║  [+] Role      : Bug Bounty Hunter       ║
-║  [+] Scope     : Wide Recon & Automation ║
-║  [+] Platforms : H1 | Bugcrowd | Intig   ║
-║  [+] Status    : 🟢 ACTIVELY HUNTING     ║
-╠══════════════════════════════════════════╣
-║  [*] grep -r "P1|P2" /targets/          ║
-║  [*] "The wider the scope,               ║
-║       the bigger the reward."            ║
-╚══════════════════════════════════════════╝
+[+] Role      : Bug Bounty Hunter
+[+] Focus     : Wide Scope Recon & Automation
+[+] Hunting   : XSS | LFI | SSRF | IDOR | Misconfigs
+[+] Platforms : HackerOne | Bugcrowd | Intigriti
+[+] Goal      : Critical Findings & Full Attack Surface
+[+] Status    : 🟢 ACTIVELY HUNTING
+
+[*] "The wider the scope, the bigger the reward."
 ```
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ ls /recon/tools/`
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> `ls /skills/`
 
 <div align="center">
 
-**🔍 Recon & Enumeration**
-
-![Subfinder](https://img.shields.io/badge/Subfinder-FF6B35?style=for-the-badge&logo=search&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-7B2FBE?style=for-the-badge&logo=amazon&logoColor=white)
-![httpx](https://img.shields.io/badge/httpx-0075A2?style=for-the-badge&logo=go&logoColor=white)
-![katana](https://img.shields.io/badge/Katana-00ff41?style=for-the-badge&logo=buffer&logoColor=black)
-![gau](https://img.shields.io/badge/gau-36BCF5?style=for-the-badge&logo=go&logoColor=black)
-![waybackurls](https://img.shields.io/badge/Waybackurls-FF4500?style=for-the-badge&logo=internetarchive&logoColor=white)
-
-**⚔️ Exploitation**
-
-![Nuclei](https://img.shields.io/badge/Nuclei-00d26a?style=for-the-badge&logo=buffer&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![dalfox](https://img.shields.io/badge/Dalfox-FF0055?style=for-the-badge&logo=hack-the-box&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-F7DF1E?style=for-the-badge&logo=go&logoColor=black)
-![gf](https://img.shields.io/badge/gf_patterns-00ff41?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![interactsh](https://img.shields.io/badge/interactsh-36BCF5?style=for-the-badge&logo=buffer&logoColor=black)
-
-**💻 Languages & OS**
+**💻 Languages**
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**🖥️ Systems & Tools**
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00d26a?style=for-the-badge&logo=buffer&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-blueviolet?style=for-the-badge&logo=amazon&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=shodan&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-orange?style=for-the-badge&logo=search&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-0075A2?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## `$ ./stats --github --user OFFA1911`
+## 📊 `./stats --github --user OFFA1911`
 
 <div align="center">
 
@@ -87,11 +92,44 @@ $ cat /etc/offa/profile.conf
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 `watch -n 1 git log --oneline`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OFFA1911/OFFA1911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<details>
+<summary><b>⚙️ إعداد Snake Animation</b></summary>
+
+اعمل folder جديد `.github/workflows/` وحط فيه ملف `snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+</details>
+
 <div align="center">
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=OFFA1911&label=Profile+Views&color=00ff41&style=for-the-badge" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=80&section=footer"/>
 </div>
