@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=90&lines=OFFA1911;%5B+BUG+BOUNTY+HUNTER+%5D;%5B+RECON+SPECIALIST+%5D" alt="Name SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&pause=99999&color=36BCF5&center=true&vCenter=true&width=700&height=90&lines=OFFA" alt="Name SVG" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=36BCF5&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
