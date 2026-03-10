@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o0cncxandpc2hzeHc5Y2J2dDh5ZGh1NHU3aHhzdGtzZ3B0bGVpZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="200" />
+  <img src="" width="200" />
   <br>
 
   <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 
 ### 🕵️‍♂️ Present Status
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Incognito_logo.svg/512px-Incognito_logo.svg.png" width="180" alt="Hacker">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o0cncxandpc2hzeHc5Y2J2dDh5ZGh1NHU3aHhzdGtzZ3B0bGVpZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="180" alt="Hacker">
 
 👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.
 <br><br>
