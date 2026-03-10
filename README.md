@@ -13,18 +13,15 @@
 
 ### 🕵️‍♂️ Present Status
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3o0cncxandpc2hzeHc5Y2J2dDh5ZGh1NHU3aHhzdGtzZ3B0bGVpZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" width="180" alt="Hacker">
+<p align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzVlNmwxdDJ3MWcxeG9ocTIyczV2aG5tNW54eWwxM2psbzkxYTk4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" align="right" width="200" alt="Hacker Image">
+  👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.<br><br>
+  👉 Hunting for **XSS, LFI**, and deep misconfigurations.<br><br>
+  👉 Always exploring new targets and automating my workflow.<br><br>
+  👉 Goal: Expanding my attack surface and finding critical bugs.
+</p>
 
-👉 Focused on **Wide Scope** Bug Bounty & **Reconnaissance**.
-<br><br>
-👉 Hunting for **XSS, LFI**, and deep misconfigurations.
-<br><br>
-👉 Always exploring new targets and automating my workflow.
-<br><br>
-👉 Goal: Expanding my attack surface and finding critical bugs.
-<br><br>
 `Updating:` Journey to Cybersecurity Specialist.
-
 <br>
 
 ---
