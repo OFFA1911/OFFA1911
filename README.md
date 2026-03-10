@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=OFFA&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Recon%20Specialist&descAlignY=60&descColor=36bcf5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=OFFA1911&fontSize=70&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=Bug%20Bounty%20Hunter%20%7C%20Recon%20Specialist&descAlignY=60&descColor=36bcf5" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nmap+-sV+--script+vuln+target.com;ffuf+-w+wordlist.txt+-u+https%3A%2F%2FFUZZ.target.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -62,7 +62,6 @@ $ ./offa --info
 
 ### 🛠️ Daily Arsenal
 ![Nuclei](https://img.shields.io/badge/Nuclei-00d26a?style=for-the-badge&logo=buffer&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-red?style=for-the-badge&logo=files&logoColor=white)
 ![Amass](https://img.shields.io/badge/Amass-blueviolet?style=for-the-badge&logo=amazon&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?style=for-the-badge&logo=shodan&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
@@ -70,26 +69,6 @@ $ ./offa --info
 ![httpx](https://img.shields.io/badge/httpx-0075A2?style=for-the-badge&logo=go&logoColor=white)
 
 </div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 `cat /recon/methodology.txt`
-
-```
-┌──────────────────────────────────────────────────────┐
-│              RECON WORKFLOW v2.0                      │
-├──────────────────────────────────────────────────────┤
-│  [1] Subdomain Enum    →  amass + subfinder + dnsx   │
-│  [2] Port Scanning     →  naabu + nmap               │
-│  [3] Web Probing       →  httpx + whatweb            │
-│  [4] Fuzzing           →  ffuf + dirsearch           │
-│  [5] Vuln Scanning     →  nuclei templates           │
-│  [6] Manual Testing    →  Burp Suite + custom payloads│
-│  [7] Report & Profit   →  💰 BOUNTY COLLECTED        │
-└──────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -111,16 +90,6 @@ $ ./offa --info
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OFFA1911&bg_color=0d1117&color=00ff41&line=36bcf5&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 `cat /achievements/trophies.log`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OFFA1911&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
