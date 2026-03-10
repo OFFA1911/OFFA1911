@@ -1,8 +1,19 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=55&pause=99999&color=36BCF5&center=true&vCenter=true&width=700&height=90&lines=OFFA" alt="Name SVG" />
-</a>
+<!-- Cyber / Circuit Board Background with Welcome -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a2a4a,60:0d1117,100:0a1628&height=280&section=header&text=OFFA&fontSize=100&fontColor=36BCF5&animation=blinking&fontAlignY=45&desc=◈%20Welcome%20to%20my%20Profile%20◈&descAlignY=68&descColor=00ff41&descSize=18&stroke=36BCF5&strokeWidth=2" />
+
+<!-- Welcome GIF -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=3000&color=00FF41&center=true&vCenter=true&width=400&height=30&lines=Welcome+to+my+profile+%F0%9F%91%BE" alt="Welcome" />
+&nbsp;
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+
+<br/>
+
+<!-- Glitch Hi I'm OFFA -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+OFFA+%F0%9F%91%8B;%E2%96%88%E2%96%88%E2%96%84%E2%96%84%E2%96%88%E2%96%88%E2%80%A6+%5BGLITCH%5D;Hi%2C+I'm+OFFA+%F0%9F%91%8B" alt="Glitch OFFA" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=36BCF5&center=true&vCenter=true&width=600&lines=whoami+%3D%3D+Bug+Bounty+Hunter+%F0%9F%90%9B;grep+-r+%22vulnerabilities%22+%2Ftargets%2F;nuclei+-t+cves%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-silent" alt="Typing SVG" />
 
