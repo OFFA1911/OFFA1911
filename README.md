@@ -1,29 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:001a00,100:000000&height=320&section=header&text=OFFA&fontSize=130&fontColor=00ff41&animation=blinking&fontAlignY=50&desc=◈%20Bug%20Bounty%20Hunter%20◈&descAlignY=72&descColor=36BCF5&descSize=20&stroke=00ff41&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:001a00,60:0a1a0a,100:0d0d0d&height=280&section=header&text=OFFA&fontSize=130&fontColor=00ff41&animation=blinking&fontAlignY=50&desc=◈%20Bug%20Bounty%20Hunter%20◈&descAlignY=72&descColor=36BCF5&descSize=22&stroke=00ff41&strokeWidth=3" />
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=680&height=45&lines=subfinder+-d+target.com+%7C+httpx+-silent+%7C+nuclei;gf+xss+urls.txt+%7C+dalfox+pipe+--silence;nuclei+-t+cves%2F+exposed-panels%2F+-u+target.com;katana+-u+https%3A%2F%2Ftarget.com+-jc+-d+5+%7C+gf+lfi;ffuf+-w+wordlist.txt+-u+URL%2FFUZZ+-mc+200%2C403;amass+enum+-passive+-d+target.com;grep+-r+%22api_key%7Ctoken%7Csecret%22+%2Fjs%2F" alt="Typing SVG" />
 
-```
- ██████╗ ███████╗███████╗ █████╗ 
-██╔═══██╗██╔════╝██╔════╝██╔══██╗
-██║   ██║█████╗  █████╗  ███████║
-██║   ██║██╔══╝  ██╔══╝  ██╔══██║
-╚██████╔╝██║     ██║     ██║  ██║
- ╚═════╝ ╚═╝     ╚═╝     ╚═╝  ╚═╝
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=grep+-r+%22vulnerabilities%22+%2Ftargets%2F+--include%3D%22*.js%22;nuclei+-t+cves%2F+exposed-panels%2F+-u+https%3A%2F%2Ftarget.com;subfinder+-d+target.com+%7C+httpx+-mc+200+%7C+nuclei;gf+xss+%7C+dalfox+pipe+--silence;cat+urls.txt+%7C+gf+lfi+%7C+ffuf+-w+-;ffuf+-w+wordlist.txt+-u+URL%2FFUZZ+-mc+200%2C301%2C403;amass+enum+-passive+-d+target.com+-o+out.txt;katana+-u+https%3A%2F%2Ftarget.com+-jc+-d+5" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
+<br/><br/>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-%23494649.svg?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/)
@@ -47,33 +30,13 @@ $ cat /etc/offa/profile.conf
 ║  [+] Platforms : H1 | Bugcrowd | Intig   ║
 ║  [+] Status    : 🟢 ACTIVELY HUNTING     ║
 ╠══════════════════════════════════════════╣
-║                                          ║
 ║  [*] grep -r "P1|P2" /targets/          ║
-║  [*] "The wider the scope, the           ║
-║       bigger the reward."                ║
+║  [*] "The wider the scope,               ║
+║       the bigger the reward."            ║
 ╚══════════════════════════════════════════╝
 ```
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `$ cat vuln_classes.txt`
-
-<div align="center">
-
-| Vulnerability | Severity | Tools |
-|:---:|:---:|:---:|
-| `XSS` | 🔴 High | dalfox, XSStrike, gf |
-| `SSRF` | 🔴 Critical | SSRFmap, interactsh |
-| `LFI / RFI` | 🔴 High | ffuf, gf lfi |
-| `IDOR` | 🟠 Medium–High | Burp Suite, manual |
-| `Open Redirect` | 🟡 Medium | gf redirect, qsreplace |
-| `Subdomain Takeover` | 🔴 High | subjack, nuclei |
-| `Exposed Panels` | 🟠 Medium | nuclei, shodan |
-| `Misconfigs` | 🔴 Critical | nuclei, manual |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -124,50 +87,8 @@ $ cat /etc/offa/profile.conf
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `$ watch -n 1 git log --oneline`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/OFFA1911/OFFA1911/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<details>
-<summary><b>⚙️ Snake Animation Setup</b></summary>
-
-Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 */12 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-</details>
-
 <div align="center">
 <br/>
-
-```
-┌─────────────────────────────────────────────────────┐
-│   "Every bug found is a system made safer."         │
-│                                    — OFFA           │
-└─────────────────────────────────────────────────────┘
-```
 
 <img src="https://komarev.com/ghpvc/?username=OFFA1911&label=Profile+Views&color=00ff41&style=for-the-badge" />
 
