@@ -30,23 +30,34 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 <br>
 
 ---
+<div style="background-color: #0d0d0d; border: 2px solid #22F700; border-radius: 15px; padding: 30px; margin-bottom: 20px; box-shadow: 0px 0px 20px rgba(34, 247, 0, 0.2); font-family: 'Courier New', monospace;">
+  <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-<h2 id="present_status"> Present Status </h3>
+  <h3 align="center" style="color: #22F700; margin-top: 0; letter-spacing: 3px; border-bottom: 1px solid #333; padding-bottom: 15px;">
+    ⚡ ℙ𝕣𝕖𝕤𝕖𝕟𝕥 𝕊𝕥𝕒𝕥𝕦𝕤 ⚡
+  </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+  <div style="color: #e0e0e0; font-size: 1.05em; line-height: 2;">
+    
+   <div style="margin-bottom: 10px;">
+      <span style="color: #22F700;">▹</span> <b>Currently:</b> Still Learning Bug Hunting & Malware Forensics 🔍
+    </div>
 
-👉 Still Learning Bug hunting & malware forensics.
+   <div style="margin-bottom: 10px;">
+      <span style="color: #22F700;">▹</span> <b>Education:</b> 2nd Year Electricity Technology Student 🎓
+    </div>
 
-👉 Managing Tech Communities & Content creator.
+  <div style="background: rgba(34, 247, 0, 0.1); padding: 10px; border-left: 3px solid #22F700; border-radius: 5px;">
+      <span style="color: #22F700;">▹</span> <b>Target:</b> One of Egypt's Top Bug Hunters 🇪🇬 🏆
+    </div>
 
-👉 Writing Some Useful Tools For Myself & Communities
+  </div>
+</div>
 
-👉 Building & Contributing To Open Source Projects
 
 
-`Updating:`  Journey to Cybersecurity Specialist.
 
----
+
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
