@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 </p><p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-7b8e61d6-2f2f-4c9b-9f7f-7c8c6c3e9f15.gif">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+OFFA" />
