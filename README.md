@@ -1,9 +1,13 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+</p><p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
+
+
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+OFFA" />
 </p>
+
 
 
 ---
