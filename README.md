@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Recon+Specialist;Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;R;Security+Researcher" />
 </p>
 
 ---
