@@ -1,54 +1,88 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=1&center=true&vCenter=true&width=1000&height=5&lines=+" />
-</p><p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-7b8e61d6-2f2f-4c9b-9f7f-7c8c6c3e9f15.gif">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23E1A95F&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Hey%20there!+I'm+OFFA;Bug+Bounty+Hunter+%26+Security+Researcher" alt="Typing SVG" />
 </p>
+
 <p align="center">
-<i>Bug Bounty Hunter • Security Researcher  </i>
+  <i>Specializing in Web & API Security • Recon • Logic Flaws • Client-Side Attacks</i>
 </p>
+
 ---
-## 👋 Hi There
-I'm **OFFA**, a **Bug Bounty Hunter & Security Researcher** focusing on Advanced Reconnaissance, Web Application Security, and API vulnerabilities.
-I enjoy discovering hidden assets, auditing source code, mapping attack surfaces, and diving deep into client-side vulnerabilities and device fingerprinting mechanisms. My goal is to continuously push the boundaries of offensive security and share knowledge with the community.
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/OFFA1911?style=social)](https://github.com/OFFA1911)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-00C896?style=flat&logo=Google-chrome&logoColor=white)](https://your-portfolio-link.com)  <!-- ضيف لينك لو عندك -->
+[![Medium](https://img.shields.io/badge/Medium-Writeups-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ahmedraouf328)
+[![Discord](https://img.shields.io/badge/Discord-BUG%20Hunting%20PRO-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/xvJWqNjj)
+
+</div>
+
+### 👋 About Me
+
+I'm **OFFA**, a passionate **Bug Bounty Hunter** and **Security Researcher** focused on:
+
+- Advanced reconnaissance & asset discovery
+- Web application & API security testing
+- Discovering business logic flaws & authorization bypasses
+- Client-side vulnerabilities (XSS, CSP bypass, fingerprinting, etc.)
+- Building custom tooling & automation for security workflows
+
+Founder of **BUG Hunting PRO** – a growing Discord community helping new hunters learn, collaborate, and succeed.
+
 ---
-## 🧠 About Me
-* 🕵️ **Bug Bounty Hunter** & Web Pentester
-* 🔎 Specializing in Recon, API Security, and identifying logic flaws
-* 🐧 Proficient in Linux-based security auditing and Binary Analysis (checksec, nm, strings)
-* 🤝 Founder of a cybersecurity Discord community dedicated to mentoring bug hunters (BUG Hunting PRO)
-* 📚 Always researching new attack vectors and building custom automation
----
-## 🛠️ Tools & Technologies
+
+### 🛠️ Core Skills & Tech Stack
+
 <p align="center">
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nuclei-0080FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Subfinder-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/httpx-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Amass-FFB000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nuclei-0080FF?style=for-the-badge&logoColor=white" alt="Nuclei"/>
+  <img src="https://img.shields.io/badge/Subfinder-00A3E0?style=for-the-badge&logoColor=white" alt="Subfinder"/>
+  <img src="https://img.shields.io/badge/Amass-FFB000?style=for-the-badge&logoColor=black" alt="Amass"/>
+  <img src="https://img.shields.io/badge/httpx-000000?style=for-the-badge&logoColor=white" alt="httpx"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
+Additional: Checksec, radare2/cutter, strings, nm, source code review, JavaScript auditing
+
 ---
-## 📊 GitHub Stats
+
+### 📈 GitHub Activity
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OFFA1911&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFA1911&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OFFA1911&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OFFA1911&theme=dracula&hide_border=true" alt="Streak" width="48%"/>
 </p>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFA1911&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFA1911&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%"/>
 </p>
+
 ---
-## 🔗 Connect With Me
-* 📝 **Read my writeups on Medium:** [@ahmedraouf328](https://medium.com/@ahmedraouf328)
-* 👾 **Join my Discord Community:** [BUG Hunting PRO](https://discord.gg/xvJWqNjj)
-* 📧 **Email:** [Contact Me](mailto:your@email.com) *(تذكر تحديث بريدك هنا)*
+
+### 📝 Writeups & Knowledge Sharing
+
+- 📰 **Medium Writeups**: [Read my bug bounty reports & techniques](https://medium.com/@ahmedraouf328)
+- 🐍 **Automation Scripts & Tools**: Check my public repositories
+- 👾 **Community**: Join [BUG Hunting PRO Discord](https://discord.gg/xvJWqNjj) – mentoring & discussions
+
 ---
-## 🧠 Quote
-> "Recon is where the real bug hunting begins."
----
+
+### 📬 Let's Connect
+
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>  <!-- لو عندك اكس/تويتر -->
+  <!-- أضف لينكات تانية زي LinkedIn, HackerOne إلخ -->
 </p>
+
+---
+
+> “The best bugs are the ones nobody else is looking for.”
+
+<div align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="80%"/>
+</div>
