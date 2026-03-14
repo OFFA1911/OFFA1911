@@ -43,7 +43,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 
 👉 Building & Contributing To Open Source Projects
 
-👉 Currently Learning mobile pentesting & web3 
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -81,7 +80,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
   <b><i>"Never give up. Never back down."</i></b>
 </p>
 <p align="center">
-<a>🌱</a>
 </p>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
