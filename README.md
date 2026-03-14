@@ -20,13 +20,11 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 <details>
   <summary>More about me</summary>
 
-- **Name**: Coffin
-- **From**: Moscow (Russia)
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
+- **Name**: Ahmed
+- **From**: EGPTY (Marsa Matruh)
+- **Bug Hunter** | **Security Researcher** 
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **coffinxp7@proton.me**
 
 </details>
 <br>
