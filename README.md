@@ -39,17 +39,17 @@ I'm **`OFFA`** a hacker & Security Researcher and aspiring Cybersecurity Special
     
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉  Currently: Still Learning Bug Hunting  🔍
+👉 <b>Currently: Still Learning Bug Hunting  🔍</b>
 
-👉 Education:2nd Year Electricity Technology Student 🎓
+👉 <b>Education:2nd Year Electricity Technology Student 🎓</b>
 
-👉  Target: One of Egypt's Top Bug Hunters 🇪🇬 🏆
+👉 <b>Target: One of Egypt's Top Bug Hunters 🇪🇬 🏆</b>
 
-👉 Building & Contributing To Open Source Projects
+👉 <b>Zamalek SC Supporter | UWK 🏹 🇦🇹</b>
 
-👉 Currently Learning mobile pentesting & web3 
+👉 <b>Currently Learning mobile pentesting & web3</b>
 
-`Updating:`  Journey to Cybersecurity Specialist.
+<b>`Updating:`  Journey to Cybersecurity Specialist.</b>
 
 
   </div>
