@@ -7,6 +7,10 @@
 <i>Bug Bounty Hunter • Security Researcher </i>
 </p>
 ---
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
 I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
