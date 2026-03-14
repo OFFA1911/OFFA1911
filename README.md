@@ -63,14 +63,14 @@ I'm **`OFFA`** a hacker & Security Researcher and aspiring Cybersecurity Special
 
 <div style="border: 2px solid #22F700; border-radius: 15px; padding: 25px; background-color: rgba(13, 13, 13, 0.8); box-shadow: 0px 0px 10px rgba(34, 247, 0, 0.1);">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=000000" alt="PHP" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go" alt="Go" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php" alt="PHP" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux" alt="Linux" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux" alt="Kali Linux" />
   </div>
 </div>
 
