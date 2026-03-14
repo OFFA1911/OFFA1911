@@ -56,7 +56,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 <br>
 
 <div style="background-color: #0d0d0d; border: 2px solid #22F700; border-radius: 15px; padding: 35px; margin-bottom: 20px; box-shadow: 0px 0px 15px rgba(34, 247, 0, 0.3);">
-  <h3 align="center" style="color: #22F700; font-family: monospace; margin-top: 0; margin-bottom: 20px;">&gt;_ Tech_Stack </h3>
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" height="35" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" height="35" />
