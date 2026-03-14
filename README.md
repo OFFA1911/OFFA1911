@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
+I'm **`OFFA`** a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
 
 
 <details>
@@ -58,10 +58,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 
 ---
 
-
-
 <br>
-
 <h2 id="knowledge_skills" align="center" style="color: #ffffff; font-family: 'Courier New', monospace; margin-top: 35px; margin-bottom: 20px;"> ⚔️ Knowledge & Skills ⚔️ </h2>
 
 <div style="border: 2px solid #22F700; border-radius: 15px; padding: 25px; background-color: rgba(13, 13, 13, 0.8); box-shadow: 0px 0px 10px rgba(34, 247, 0, 0.1);">
@@ -77,10 +74,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
   </div>
 </div>
 
-<p align="center" style="margin-top: 30px; font-style: italic; color: #888;">
-  "Never give up. Never back down."
-</p>
----
+
 
 
 
