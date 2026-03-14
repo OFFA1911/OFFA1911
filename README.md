@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=15&section=header&reversal=false&text= " width="100%"/>
+</p>
+
 </p><p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-7b8e61d6-2f2f-4c9b-9f7f-7c8c6c3e9f15.gif">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23E1A95F&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
 </p>
 
 <p align="center">
@@ -70,7 +74,7 @@ I enjoy discovering hidden assets, auditing source code, mapping attack surfaces
 
 * 📝 **Read my writeups on Medium:** [@ahmedraouf328](https://medium.com/@ahmedraouf328)
 * 👾 **Join my Discord Community:** [BUG Hunting PRO](https://discord.gg/xvJWqNjj)
-* 📧 **Email:** [Contact Me](mailto:your@email.com) *(Don't forget to update your email here!)*
+* 📧 **Email:** [Contact Me](mailto:your@email.com) *(تذكر تحديث بريدك هنا)*
 
 ---
 
