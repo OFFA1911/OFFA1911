@@ -7,6 +7,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&duration=3000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+OFFA" />
 </p>
 
+<h1 align="center">
+<font color="#FF0000">⚔️ OFFA ⚔️</font>
+</h1>
+
+<p align="center">
+<i>Bug Bounty Hunter • Security Researcher</i>
+</p>
 
 
 ---
