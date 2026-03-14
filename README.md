@@ -1,3 +1,17 @@
+<p align="center">
+<img src="https://i.imgur.com/8Km9tLL.gif" width="100%" />
+</p>
+
+<h1 align="center">⚔️ OFFA — Cyber Samurai ⚔️</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=750&lines=Bug+Bounty+Hunter;Security+Researcher;Walking+The+Path+Of+Cyber+Samurai" />
+</p>
+
+<p align="center">
+<i>"Discipline. Recon. Precision."</i>
+</p>
+
 <p align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif" width="100%" height="auto"/></p>
 
 <p align="center">
