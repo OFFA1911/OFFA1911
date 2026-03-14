@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<i>Bug Bounty Hunter • Security Researcher • Community Builder</i>
+<i>Bug Bounty Hunter • Security Researcher  </i>
 </p>
 
 ---
