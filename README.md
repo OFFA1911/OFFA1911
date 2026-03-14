@@ -1,8 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;R;Security+Researcher" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
 </p>
+
 
 ---
 
@@ -12,7 +13,7 @@ I'm **OFFA**, a **Bug Bounty Hunter & Security Researcher** focused mainly on **
 
 I enjoy discovering hidden assets, mapping attack surfaces, and identifying vulnerabilities in modern web applications.
 
-My goal is to continuously improve my **offensive security skills** and contribute to making the internet a safer place.
+My goal is to continuously improve my offensive security skills and contribute to making the internet a safer place.
 
 ---
 
@@ -28,10 +29,10 @@ My goal is to continuously improve my **offensive security skills** and contribu
 
 ## ⚡ Current Focus
 
-* Advanced **Recon Methodology**
+* Advanced Recon Methodology
 * Automating Recon Workflows
-* Discovering **Web Vulnerabilities**
-* Building Custom **Bug Bounty Tools**
+* Discovering Web Vulnerabilities
+* Building Custom Bug Bounty Tools
 
 ---
 
@@ -61,6 +62,8 @@ My goal is to continuously improve my **offensive security skills** and contribu
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -75,3 +78,9 @@ My goal is to continuously improve my **offensive security skills** and contribu
 ## 🧠 Quote
 
 > "Recon is where the real bug hunting begins."
+
+---
+
+<p align="center">
+<img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" />
+</p>
