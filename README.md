@@ -31,52 +31,55 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
 
 ---
 <div style="background-color: #0d0d0d; border: 2px solid #22F700; border-radius: 15px; padding: 30px; margin-bottom: 20px; box-shadow: 0px 0px 20px rgba(34, 247, 0, 0.2); font-family: 'Courier New', monospace;">
-  <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
+  
   <h3 align="center" style="color: #22F700; margin-top: 0; letter-spacing: 3px; border-bottom: 1px solid #333; padding-bottom: 15px;">
     ⚡ ℙ𝕣𝕖𝕤𝕖𝕟𝕥 𝕊𝕥𝕒𝕥𝕦𝕤 ⚡
   </h3>
 
-  <div style="color: #e0e0e0; font-size: 1.05em; line-height: 2;">
     
-   <div style="margin-bottom: 10px;">
-      <span style="color: #22F700;">▹</span> <b>Currently:</b> Still Learning Bug Hunting & Malware Forensics 🔍
-    </div>
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-   <div style="margin-bottom: 10px;">
-      <span style="color: #22F700;">▹</span> <b>Education:</b> 2nd Year Electricity Technology Student 🎓
-    </div>
+👉  Currently: Still Learning Bug Hunting  🔍
 
-  <div style="background: rgba(34, 247, 0, 0.1); padding: 10px; border-left: 3px solid #22F700; border-radius: 5px;">
-      <span style="color: #22F700;">▹</span> <b>Target:</b> One of Egypt's Top Bug Hunters 🇪🇬 🏆
-    </div>
+👉 Education:2nd Year Electricity Technology Student 🎓
+
+👉  Target: One of Egypt's Top Bug Hunters 🇪🇬 🏆
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist.
+
 
   </div>
 </div>
 
 
+---
 
 
-
-
-<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<h2 id="knowledge_skills" align="center" style="color: #ffffff; font-family: 'Courier New', monospace; margin-top: 35px; margin-bottom: 20px;"> ⚔️ Knowledge & Skills ⚔️ </h2>
+
+<div style="border: 2px solid #22F700; border-radius: 15px; padding: 25px; background-color: rgba(13, 13, 13, 0.8); box-shadow: 0px 0px 10px rgba(34, 247, 0, 0.1);">
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&color=000000" alt="PHP" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
   </div>
 </div>
-<br>
 
+<p align="center" style="margin-top: 30px; font-style: italic; color: #888;">
+  "Never give up. Never back down."
+</p>
 ---
 
 
