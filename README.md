@@ -21,7 +21,7 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsec_vip)**, a hacker & Security R
   <summary>More about me</summary>
 
 - **Name**: Ahmed
-- **From**: EGPTY (Marsa Matruh)
+- **From**: Egypt (Marsa Matruh)
 - **Bug Hunter** | **Security Researcher** 
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
