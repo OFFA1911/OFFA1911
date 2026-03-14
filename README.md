@@ -47,7 +47,7 @@ I'm **`OFFA`** a hacker & Security Researcher and aspiring Cybersecurity Special
 
 👉 <b>Target: One of Egypt's Top Bug Hunters 🇪🇬 🏆</b>
 
-👉 <b>Currently Learning mobile pentesting & web3</b>
+👉 <b>Aspiring to learn mobile pentesting & web3</b>
 
 <b>`Updating:`  Journey to Cybersecurity Specialist.</b>
 
