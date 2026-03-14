@@ -67,6 +67,10 @@ My goal is to continuously improve my offensive security skills and contribute t
 </p>
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=750&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher;Walking+The+Path+Of+Cyber+Samurai" />
+</p>
+
 
 ## 🔗 Connect With Me
 
