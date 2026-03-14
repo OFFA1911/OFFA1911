@@ -33,13 +33,8 @@ I enjoy discovering hidden assets, auditing source code, mapping attack surfaces
 
 ---
 
-## 🏆 Achievements & Focus
 
-* 🎖️ **Acknowledged by Google VRP** for identifying critical information leaks and API vulnerabilities.
-* ⚡ Currently focused on Advanced Recon Methodology & Automating workflows.
-* ⚡ Deep diving into technical vulnerability research and source code auditing.
 
----
 
 ## 🛠️ Tools & Technologies
 
