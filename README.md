@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWo1bjdscXV4Y2Nocmh5bDhxNjFkNmgwbXcwbzhzNDB0YWxncnFvYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yGLA1z4KSOPxFIDTJx/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRsNXc3ZWlmbmIzbzdwYWV5bDVtMWcybmZ0MnZiMDA0NnVwdjM2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jzHFPlw89eTqU/giphy.gif">
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF2E2E&size=45&center=true&vCenter=true&height=60&width=700&lines=Hi+I'm+OFFA;Bug+Bounty+Hunter;Security+Researcher" />
